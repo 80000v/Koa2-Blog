@@ -1,10 +1,10 @@
 {
   "dialect": "mysql",
-  "host": "",
+  "host": "q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   "port": 3306,
-  "userName": "",
-  "password": "",
-  "databaseName": "",
+  "userName": "klukvvwsdrquym4m",
+  "password": "rko9ub5mds78rlg3",
+  "databaseName": "g2cvh1erg9jjvi1q",
   "ssl": false,
   "timezone": "+08:00"
 }
